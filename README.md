@@ -26,4 +26,4 @@ https://github.com/mrchi/magisk-miui-eu-install-mipay ![下载](https://github.c
 
 4.隐藏root
 
-magisk-设置(右上角)-Zygisk(✓)-遵守排除列表(✓)-配置排除列表（银行、公司等应用）
+magisk-设置(右上角)-Zygisk(✓)-遵守排除列表(✓)-配置排除列表（银行、公司、游戏等应用）
