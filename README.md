@@ -14,6 +14,7 @@
 1.提取apk
 
 MIpay.apk 
+
 安装失败：（NextPay.apk TSMClient.apk UPTsmService.apk）
 
 2.安装模块
