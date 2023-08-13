@@ -8,7 +8,7 @@
 
 ~~~~~~~~~~~~~~~~~~~
 
-2.lpunpack 解压 super.raw
+1. lpunpack 解压 super.raw
 ~~~~~~~~~~~~~~~~~~~
 ./lpunpack super.raw 
 ~~~~~~~~~~~~~~~~~~~
